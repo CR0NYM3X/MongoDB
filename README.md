@@ -1,7 +1,7 @@
 
 # Temario
 
-.- Conceptos básicos postgresql<br>
+.- Conceptos básicos MongoDB<br>
 .- Recoleccion de informacion de la base de datos y el servidor <br>
 .- Base de datos<br>
 .- Tablas<br>
